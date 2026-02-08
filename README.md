@@ -1,11 +1,11 @@
 # 🚀 Deployment & Repository Links
 
+-   Deployed demo link
+    - link - jayaram.karunakaran@yahoo.com
+    - 
 -   GitHub repository links
     - FE Repo - https://github.com/jayaram-karunakaran/next-task-app
     - BE Repo - https://github.com/jayaram-karunakaran/node-deploy-lab
-
--   Deployed demo link
-    - link
 
 ------------------------------------------------------------------------
 
@@ -229,3 +229,4 @@ CMD ["npm", "start"]
 
 Fully functional MERN stack app with advanced Redis caching and
 Dockerized local environment.
+
