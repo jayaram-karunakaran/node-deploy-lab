@@ -1,7 +1,7 @@
 # 🚀 Deployment & Repository Links
 
 -   Deployed demo link
-    - link - jayaram.karunakaran@yahoo.com
+    - link - https://jay-task-manager.vercel.app/
     - 
 -   GitHub repository links
     - FE Repo - https://github.com/jayaram-karunakaran/next-task-app
@@ -229,4 +229,5 @@ CMD ["npm", "start"]
 
 Fully functional MERN stack app with advanced Redis caching and
 Dockerized local environment.
+
 
